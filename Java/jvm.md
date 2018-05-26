@@ -433,7 +433,7 @@ public class CanReliveObj {
         
         抛出异常：
         Exception in thread "main" java.lang.OutOfMemoryError: 
-unable to create new native thread
+                unable to create new native thread
         
         解决方法：
          - 减少堆内存
